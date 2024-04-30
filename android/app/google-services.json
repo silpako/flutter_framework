@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "895846917302",
+    "project_id": "mysignin-92bde",
+    "storage_bucket": "mysignin-92bde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895846917302:android:a637e32ed7748591b2f217",
+        "android_client_info": {
+          "package_name": "com.example.flutter_october_vs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy0hcKr34uNzpyWnDYPeG6NKAbCZtjBvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
